@@ -1,0 +1,13 @@
+Variables: te permiten darles un valor y un nombre para luego ser utilizadas por ti.
+Por ejemplo: la variable "miNombre" tiene como valor "Juani".
+
+Strings: En la programación es lo que comunmente le llamamos texto en nuestra vida cotidiana.
+
+Funciones (argumentos, `return`): La función nos pide el argumento para que nos pueda devolver el return.
+por ejemplo: si el argumento de la función "suma" es "(a, b)", siendo a y b cualquier número, el return va a ser
+la suma de ambos números.
+
+Declaraciones `if`: Lo utilizamos para dividir la funcion en dos casos, que dependiendo de lo que le demos a la función nos devuelva
+el primer o segundo caso.
+
+Valores booleanos (`true`, `false`): Sirven para darle valor a diferentes variables, true siginifica verdadero y false significa falso.
