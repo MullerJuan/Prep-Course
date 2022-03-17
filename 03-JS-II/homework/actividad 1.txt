@@ -1,0 +1,12 @@
+for: for es la palabra clave para generar un bucle en la programación, donde vos le das el dato que queres que repita y
+la cantidad de veces máxima que querés que lo repita. Es cómo la Fórmula 1, los corredores tienen cierta cantidad de vueltas
+por cumplir y hasta que no las completan la carrera no se termina, a menos que se suspenda.
+
+&&: funciona como si fuera una "Y" en nuestro lenguaje para unir dos expresiones, por ejemplo: si se cae una botella y se rompe,
+la botella no sirve. En el ejemplo el operador lógico "&&" sería la "y", cumple la misma función.
+
+||: es como el ejemplo anterior pero este operador cumple la función de la "O", por ejemplo: si las zapatillas estan limpias,
+es porque las limpió o con nuevas.
+
+!: se utiliza para negar la expresión, por ejemplo: la expresion es "el pasto es verde", si le sumamos el "!", quedaría 
+"el pasto no es verde", esa es su función.
