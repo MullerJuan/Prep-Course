@@ -1,0 +1,3 @@
+Arrays: Los Arrays son como cajas donde vos podes guardar datos, ya sean números, letras, palabras o textos.
+Entonces por ejemplo vos tenes un array que se llama "Comidas favoritas" y ahi adentro tenes todas las comidas que te gusten:
+comidasFavoritas = ["Hamburguesa","Pizza"] 
