@@ -1,0 +1,20 @@
+Objetos: todos sabemos qué es un objeto en nuestra vida cotidiana, es algo tangible que cumple una función
+y tiene muchas características, por ejemplo: una pelota es un objeto que se utiliza para jugar, tiene forma
+esférica u ovalada, suelen ser de goma, plastico o cuero.
+Bueno un objeto en la programación es similar, ya que le podemos asignar un nombre y describir todas sus 
+características o propiedades.
+
+Propiedades: Las propiedades son datos que contiene el objeto que hablan o hacen referencia al mismo,
+como nombramos en el ejemplo anterior sobre la pelota.
+
+Métodos: Los métodos son funciones que utilizamos con los datos que guardamos dentro del objeto.
+
+Bucle 'for...in': El bucle 'for..in' es similar al bucle 'for' solo que el primero se utiliza para objetos 
+y el segundo para arrays. Sirve para leer los datos que se encuentren en el objeto y que nos imprima el dato 
+preciso que le pedimos.
+
+Notación de puntos vs notación de corchetes: La notación "objeto.propiedad" busca solo propiedades dentro del objeto,
+mientras que la notación "objeto.[]" puede buscar propiedades dentro del objeto si escribimos la propiedad como un
+strign dentro de los corchetes y tambien podemos buscar variables fuera del objeto escribiendolo sin las comillas
+dentro de los corchetes. Es decir, la primera se utiliza para buscar datos dentro del objeto y la segunda para
+buscar datos dentro y fuera del objeto.
