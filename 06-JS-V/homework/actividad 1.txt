@@ -1,0 +1,6 @@
+prototype: es un como una caja donde uno guarda los metodos o las funciones
+que quiere que sean utilizados por los objetos.
+
+constructors: como la palabra lo dice, es un constructor de objetos, al cual
+le podemos dar que tipo de propiedades queremos que tenga el objeto que deseamos
+construir.
