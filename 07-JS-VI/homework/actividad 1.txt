@@ -1,0 +1,3 @@
+Funciones callback: las funciones callback o cb, son aquellas que podemos agregar como argumento a otra funcion,
+un ejemplo cotidiano en nuestras vidas puede ser: cuando saboreamos una comida, la funcion callback de nuestro
+cerebro seria masticar, porque sin masticar no podemos sentir el sabor de alguna comida.
