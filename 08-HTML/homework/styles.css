@@ -1,0 +1,29 @@
+h1{
+    color: red;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv {
+    border: 20px solid green;
+    height: 600px;
+    width: 500px;
+    background-color: seagreen;
+    padding: 50px;
+}
+
+#spanId{
+    font-size: 18px;margin: 50px;
+}
+
+body{
+    background-image: url(https://i.eurosport.com/2021/06/04/3145737-64470468-2560-1440.jpg);
+    background-size: 400px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
